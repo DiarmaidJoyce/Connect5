@@ -1,2 +1,3 @@
-# Connect5
-Connect5
+# Connect Five
+
+A Variation of the famous Connect Four game.
